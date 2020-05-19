@@ -1,4 +1,4 @@
-# misinformation-classification-nlp
+# NLP One Class Classification Project 
 
 Climate Change misinformation detection model development
 
